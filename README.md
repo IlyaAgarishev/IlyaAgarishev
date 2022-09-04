@@ -9,7 +9,9 @@ About me
   - React, Redux, Typescript
   - Algorithms and data structures
   - Cypress, Jest, Git, CI/CD, Vanilla JS
-- Check my [resume](https://docs.google.com/document/d/1rjhoSsVEhexMixKSrJGNN17Da65SiLpZj2k-iagryZs/edit)
+- Check my resume
+  - [Resume in Russian](https://docs.google.com/document/d/1rjhoSsVEhexMixKSrJGNN17Da65SiLpZj2k-iagryZs/edit)
+  - [Resume in English](https://docs.google.com/document/d/1Iro41HrEvziOa0sPzIedteqF12wb2v3XfCM7HuzcS2c/edit)
 - Contact me: [telegram](https://t.me/jamezdean)
 
 <!--
