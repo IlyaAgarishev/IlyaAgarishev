@@ -8,6 +8,7 @@ About me
 - Technologies: 
   - React, Redux, Typescript
   - Algorithms and data structures
+  - SOLID principles
   - Cypress, Jest, Git, CI/CD, Vanilla JS
 - Check my resume
   - [Resume in Russian](https://docs.google.com/document/d/1rjhoSsVEhexMixKSrJGNN17Da65SiLpZj2k-iagryZs/edit)
