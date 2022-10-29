@@ -13,7 +13,7 @@ About me
 - Check my resume
   - [Resume in Russian](https://docs.google.com/document/d/1rjhoSsVEhexMixKSrJGNN17Da65SiLpZj2k-iagryZs/edit)
   - [Resume in English](https://docs.google.com/document/d/1K_2Rh9CmWQI1nL9K0sgjQFreOP8wXoF3UD0azYGQ8us/edit)
-- Contact me: [telegram](https://t.me/jamezdean) or [email](mailto:iagarishev@mail.ru)
+- Contact me: [email](mailto:iagarishev@mail.ru)
 
 <!--
 The question: can I use this comments as keywords to improve the SEO of my profile?
