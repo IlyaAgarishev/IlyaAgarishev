@@ -4,6 +4,7 @@
 ### Илья Агарышев
 
 About me
+- Senior frontend dev
 - Work experience 6 years
 - Technologies: 
   - React, Redux, Typescript
