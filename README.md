@@ -4,7 +4,7 @@
 ### Илья Агарышев
 
 About me
-- Work experience 5 years
+- Work experience 6 years
 - Technologies: 
   - React, Redux, Typescript
   - Algorithms and data structures
