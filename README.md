@@ -5,7 +5,7 @@
 
 About me
 - Senior frontend dev
-- Work experience 6 years
+- Work experience 7 years
 - Technologies: 
   - React, Redux, Typescript
   - Algorithms and data structures
