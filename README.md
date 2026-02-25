@@ -1,8 +1,6 @@
 
 ### 🕷🕸🐞
 
-### Илья Агарышев
-
 About me
 - Senior frontend dev
 - Work experience 7 years
